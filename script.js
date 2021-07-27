@@ -27,12 +27,13 @@ document.querySelector(".enter").addEventListener("click", function () {
   if (!val) {
     //if a number is not entered
     modifyPrompt("No number!");
+  } else if (val > 25 || val < 1) {
+    modifyPrompt("Out of range!");
   } else if (val < randomNum) {
     //if number is smaller than target
     if (score >= 1) {
       deductCurrentScore();
     }
-
     if (score < 1) {
       modifyPrompt("You lost! Click Replay to try again!");
     } else {
