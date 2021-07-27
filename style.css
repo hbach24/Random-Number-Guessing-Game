@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Outline&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Londrina Outline", cursive;
+  background-color: lavenderblush;
+}
+
+main {
+  height: 95px;
+  /* margin-left: 300px; */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+h1 {
+  font-size: 65px;
+  text-align: center;
+  color: rgb(99, 61, 99);
+  margin-top: 40px;
+  width: 100%;
+  margin-bottom: 0px;
+  /* border: dotted; */
+}
+
+h2 {
+  color: rgb(99, 61, 99);
+}
+
+.note {
+  text-align: center;
+  margin: 0px;
+  color: rgb(172, 141, 141);
+}
+
+.num {
+  padding: 3rem 0rem;
+  margin-top: 95px;
+  text-align: center;
+  background-color: white;
+  font-size: 8rem;
+  position: absolute;
+  width: 300px;
+  right: 41%;
+  color: rgb(99, 61, 99);
+  border-radius: 25px;
+}
+
+.prompt {
+  font-size: 2rem;
+  color: rgb(99, 61, 99);
+}
+
+.button {
+  margin-top: 8px;
+  padding: 1rem;
+  font-size: 1rem;
+  font-family: "Courier New", Courier, monospace;
+  transition-duration: 0.4s;
+  background-color: plum;
+}
+
+.button:hover {
+  background-color: white;
+}
+
+.guess {
+  padding: 1rem;
+}
+
+.bottom {
+  /* margin-left: rem; */
+  margin-top: 48rem;
+}
+
+.replay {
+  padding: 25px;
+  position: absolute;
+  top: 3rem;
+  left: 82rem;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  border-radius: 25px;
+  color: black;
+  /* background-color: plum; */
+}
+
+.left {
+  margin-right: 10rem;
+  margin-top: 100rem;
+  font-size: 2rem;
+  color: rgb(99, 61, 99);
+}
+
+.current {
+  margin-top: 200px;
+  margin-left: 150px;
+  position: absolute;
+  margin-right: 0;
+  font-size: 50px;
+}
+
+.best-msg {
+  margin-top: 194px;
+  position: absolute;
+  margin-left: 63rem;
+  font-size: 50px;
+}
