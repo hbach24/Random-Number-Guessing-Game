@@ -12,7 +12,6 @@ A random number is generated between 1 and 25 and the player will have 15 tries 
 
 ![demo](https://user-images.githubusercontent.com/57569284/127246853-b18b3eb6-84b4-440d-b238-a84eaf0fa715.gif)
 
-![Update high score](https://user-images.githubusercontent.com/57569284/127247331-a4da49f0-ae9c-478d-bbbe-33b39c8acca3.gif)
+![Out of range](https://user-images.githubusercontent.com/57569284/127248522-f105971e-5dc6-4033-a402-f3d50f7bf0bb.gif)
 
-![Out of range](https://user-images.githubusercontent.com/57569284/127247473-833a1111-c803-434a-b314-54fb5f6819a1.gif)
-
+![Update high score](https://user-images.githubusercontent.com/57569284/127248613-988a98f6-319e-4672-bbbd-bf968ae3887a.gif)
