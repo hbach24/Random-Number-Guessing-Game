@@ -10,4 +10,4 @@ A random number is generated between 1 and 25 and the player will have 15 tries 
 * CSS
 * Node.js + Live Server (used for seeing live updates to the page when making changes to code)
 
-![demo](https://user-images.githubusercontent.com/57569284/127244714-d6e676dd-7ed4-47c5-9a2d-849fd5e068e5.gif)
+![demo](https://user-images.githubusercontent.com/57569284/127244877-346ab1fd-5ef1-478e-a6e1-d3a148c8438d.gif)
