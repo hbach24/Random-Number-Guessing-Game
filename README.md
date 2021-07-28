@@ -10,6 +10,8 @@ A random number is generated between 1 and 25 and the player will have 15 tries 
 * CSS
 * Node.js + Live Server (used for live updates to the page when making changes to code)
 
+I created this project to learn and practice DOM manipulation. 
+
 ![demo](https://user-images.githubusercontent.com/57569284/127246853-b18b3eb6-84b4-440d-b238-a84eaf0fa715.gif)
 
 ![Out of range](https://user-images.githubusercontent.com/57569284/127248522-f105971e-5dc6-4033-a402-f3d50f7bf0bb.gif)
